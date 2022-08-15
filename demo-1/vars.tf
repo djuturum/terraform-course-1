@@ -19,7 +19,7 @@ variable "AMIS" {
     us-east-1 = "ami-13be557e muamer kadric"
     us-west-2 = "ami-06b94666"
     eu-west-1 = "ami-0d729a60"
-eu-south-1 = "ami-0d729a60 muamer kadric 3"
+eu-south-1 = "ami-0d729a60 muamer kadric 4"
 
 >>>>>>> d5ab80081b978bccf5c8f85509b7f584fac49dc9
   }
